@@ -1,0 +1,31 @@
+{
+  "name": "laniakea",
+  "version": "1.0.0",
+  "description": "3D social sandbox",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ThePendulum/laniakea.git"
+  },
+  "keywords": [
+    "3d",
+    "social",
+    "sandbox",
+    "second",
+    "life",
+    "active",
+    "worlds",
+    "building",
+    "virtual",
+    "world"
+  ],
+  "author": "Niels Simenon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThePendulum/laniakea/issues"
+  },
+  "homepage": "https://github.com/ThePendulum/laniakea#readme"
+}
